@@ -4,7 +4,7 @@ body {
   
 }
 body {
-    background: repeating-linear-gradient(-45deg, red 0%, yellow 7.14%, lime 14.28%, cyan 21.42%, cyan 28.56%, blue 35.7%, magenta 42.84%, red 50%);
+    background: repeating-linear-gradient(-45deg, red 0%, yellow 7.14%, lime 14.28%, cyan 21.42%, cyan 28.56%, blue 35.7%, magenta 42.84%, purple 50%,white 57%);
     background-size: 600vw 600vw;
     background-position:0;
     animation: slide 10s infinite linear forwards;
@@ -38,7 +38,7 @@ nav a:hover{
 }
 ul a:hover{ animation-name: rainbowGlow;
     animation-duration: 1.5s;
-    animation-iteration-count: 10;}
+    animation-iteration-count: 1;}
 img {   border-radius: 10%;
     width: 500px;
   
