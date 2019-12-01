@@ -4,7 +4,7 @@ body {
   
 }
 body {
-    background: repeating-linear-gradient(-45deg, red 0%, yellow 7.14%, lime 14.28%, cyan 21.42%, cyan 28.56%, blue 35.7%, magenta 42.84%, purple 50%,white 57%);
+    background: repeating-linear-gradient(-45deg, red 0%, yellow 7.14%, white 14.21 lime 14.28%, cyan 21.42%, cyan 28.56%, blue 35.7%, magenta 42.84%, purple 50%,white 57%);
     background-size: 600vw 600vw;
     background-position:0;
     animation: slide 10s infinite linear forwards;
